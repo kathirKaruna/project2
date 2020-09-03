@@ -1,0 +1,26 @@
+*{
+	margin:0;
+	padding: 0;
+}
+body{
+	font-family: sans-serif;
+}
+#nav li{
+	padding-top: 25px;
+    padding-left: 20px;
+}
+.text-white li{
+	display: inline-block;
+}
+#logo{
+	margin-bottom: 30px;
+}
+
+@media(max-width: 768px){
+p{
+	font-size: 18px;
+}
+#nav li{
+	padding-top: 36px;
+}
+}
